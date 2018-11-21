@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".FoodActivity">
+        </activity>
+        <activity android:name=".CBC_Activity">
+        </activity>
+        <activity android:name=".MovieActivity">
+        </activity>
+        <activity android:name=".OcTranspoActivity">
+        </activity>
     </application>
 
 </manifest>
