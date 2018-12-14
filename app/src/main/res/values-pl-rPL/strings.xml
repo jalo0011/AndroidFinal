@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AndroidFinal</string>
     <string name="cbc_title">CBC News</string>
     <string name="octranspo_title">OC Transpo</string>
-    <string name="food_title">Food</string>
+    <string name="food_title">Jedzenie</string>
     <string name="movies_title">Movie Database</string>
-    <string name="food_favorites">View Favorites</string>
+    <string name="food_favorites">Ulubione</string>
 
 </resources>
