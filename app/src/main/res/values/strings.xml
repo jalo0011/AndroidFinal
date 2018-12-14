@@ -5,4 +5,6 @@
     <string name="food_title">Food</string>
     <string name="movies_title">Movie Database</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
